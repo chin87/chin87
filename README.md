@@ -27,12 +27,17 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/chinmay63y"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chinmay63y" /></a><a href="https://ko-fi.com/chin87"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="chin87" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chin87&show_icons=true&locale=en&layout=compact" alt="chin87" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chin87&show_icons=true&locale=en" alt="chin87" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chin87&" alt="chin87" /></p>
-
+<h3 align="left">Stats:</h3>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chin87&show_icons=true&locale=en&layout=compact" alt="chin87" />
+</p>
+<!--
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chin87&show_icons=true&locale=en" alt="chin87" />
+</p> -->
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chin87&" alt="chin87" />
+</p>
 
 <!--
 **chin87/chin87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
